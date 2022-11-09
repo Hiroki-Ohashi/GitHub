@@ -5,8 +5,8 @@
 
 int main()
 {
-    std::cout << "Hello local_World\n";
-    std::cout << "Hello Local_ConflictBranch\n";
+    std::cout << "Hello Remote_World\n";
+    std::cout << "Hello Remote_ConflictBranch\n";
     std::cout << "Hello MasterBranch!\n";
 }
 
